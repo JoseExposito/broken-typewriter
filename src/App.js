@@ -53,10 +53,12 @@ function App() {
         <textarea
           value ={original}
           onChange={onContentChanged}
+          autoFocus
         />
         <textarea
           value ={solution}
           onChange={(e) => {}}
+          disabled
         />
       </header>
     </div>
