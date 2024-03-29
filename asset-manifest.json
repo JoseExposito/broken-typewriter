@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/broken-typewriter/static/css/main.1d6f8ac3.css",
-    "main.js": "/broken-typewriter/static/js/main.d9761260.js",
+    "main.css": "/broken-typewriter/static/css/main.add34e41.css",
+    "main.js": "/broken-typewriter/static/js/main.1bec7da8.js",
     "index.html": "/broken-typewriter/index.html",
-    "main.1d6f8ac3.css.map": "/broken-typewriter/static/css/main.1d6f8ac3.css.map",
-    "main.d9761260.js.map": "/broken-typewriter/static/js/main.d9761260.js.map"
+    "main.add34e41.css.map": "/broken-typewriter/static/css/main.add34e41.css.map",
+    "main.1bec7da8.js.map": "/broken-typewriter/static/js/main.1bec7da8.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d6f8ac3.css",
-    "static/js/main.d9761260.js"
+    "static/css/main.add34e41.css",
+    "static/js/main.1bec7da8.js"
   ]
 }
